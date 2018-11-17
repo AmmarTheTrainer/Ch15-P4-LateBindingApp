@@ -10,7 +10,12 @@ namespace Ch15_P4_LateBindingApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine(" ****** Fun with Late Binding ****** ");
+            
+            // Try to Load a local copy of CarLibrary
 
+
+            Console.ReadLine();
         }
     }
 }
